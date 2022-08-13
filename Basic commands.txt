@@ -1,0 +1,5 @@
+pwd -to see current directory
+ls -to view files and folders
+cd -to enter in a directory
+cd ..to exit from a directory
+cd ../ -exit to master directory
